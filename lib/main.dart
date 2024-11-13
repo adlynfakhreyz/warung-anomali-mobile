@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:warung_anomali/menu.dart';
+import 'package:warung_anomali/screens/menu.dart';
 
 void main() {
   runApp(const MyApp());
